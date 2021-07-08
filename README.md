@@ -38,3 +38,7 @@ From the dataset, the decision makers seek the following metrics
 6.	How many Males that have Marital status ‘Married-civ-spouse’ are earning above 150,000 ? 
 
 7.	Are Divorced Individuals of higher age compared to Individuals that are Not-in-family ? Using mean as a measure , answer the above question & mention the respective age of the two groups
+
+------------------------------------------
+
+Upload your Jupyternotebooks with your-name as prefix in the repo by Jul 9th midnight
